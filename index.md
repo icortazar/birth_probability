@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+### Welcome to Birth Probability
 
 You can use the [editor on GitHub](https://github.com/icortazar/birth_probability/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
